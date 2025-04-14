@@ -10,6 +10,17 @@ Para tomar esta decisión, se analizaron las siguientes métricas: los ingresos 
 - Productos más vendidos y menos vendidos.
 - Valor del envío promedio por tienda.
 
+## 📁 Estructura del Proyecto
+```
+Challenge-AluraStore/
+├── 📁 base-de-datos-challenge1-latam
+│   ├── Tienda_1.csv
+│   ├── Tienda_2.csv
+│   ├── Tienda_3.csv
+│   └── Tienda_4.csv
+├── AluraStoreLatam.ipynb
+└── README.md
+```
 ## 🧰 Herramientas Utilizadas
 - Python (Pandas, Matplotlib y Seaborn)
 - Jupyter Notebook / Google Colab
